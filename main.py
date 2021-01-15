@@ -7,3 +7,9 @@ wantsPizza = False
 
 print(firstName)
 print("Hello")
+
+print(favNumber)
+
+print(favChar)
+
+print(favNumber)
